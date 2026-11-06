@@ -22,4 +22,4 @@ Get-FileHash .\HJ-Deploy-2026-11-06.zip
 
 should print `30695038D5B1CDFB9F16AC498C1E41A7B4A7A6A7DC1ED9658541103D03E0610F`.
 
-The package contains no passwords, keys or PINs for H-J's systems. Questions: Kevin at OuterData.
+The package contains no passwords or keys. Questions: Kevin at OuterData.
